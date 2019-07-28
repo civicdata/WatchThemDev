@@ -20,9 +20,9 @@
 :white_check_mark: [__Uncomment HTML__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/uncomment-html)   
 :white_check_mark: [__Comment out HTML__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/comment-out-html)  
 :white_check_mark: [__Delete HTML Elements__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/delete-html-elements)    
-:white_check_mark: Introduction to HTML5 Elements  
-:white_check_mark: Add Images to Your Website  
-:white_check_mark: Link to External Pages with Anchor Elements  
+:white_check_mark: [__Introduction to HTML5 Elements__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements)    
+:white_check_mark: [__Add Images to Your Website__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-images-to-your-website)   
+:white_check_mark: [__Link to External Pages with Anchor Elements__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements)  
 :white_check_mark: Link to Internal Sections of a Page with Anchor Elements  
 :white_check_mark: Nest an Anchor Element within a Paragraph  
 :white_check_mark: Make Dead Links Using the Hash Symbol  
