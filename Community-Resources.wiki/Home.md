@@ -16,9 +16,15 @@ AND FREE!
 5. Post a link to your Github, FreeCodeCamp and Treehouse profile in the __#watchusdev__ Slack channel  
 
 
-##  Pre-Project Resources:  
-    Pre-work:
-    Before you jump into Portfolio building and more advanced project work, please complete the following:
+###  Pre-Project Resources:  
+[__Text Editors__](https://guide.freecodecamp.org/tools/source-code-editors/)
 
-## Pre-work  
-    1.  [__Start here__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements)    
+Find more awesome things to use on the [__Resources page__](Resources.md) 
+
+
+
+### Pre-work  
+Before you jump into Portfolio building and more advanced project work, please complete the following:  
+* [__Start here__](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements)
+* [__What is Version Control?__](https://guides.github.com/introduction/git-handbook/)
+* [__Git and GitHub Basics__](https://guides.github.com/activities/hello-world/)
