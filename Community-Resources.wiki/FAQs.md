@@ -1,4 +1,4 @@
-#Front-end FAQs  
+# Front-end FAQs  
 
  How to dev tool:  
   Leverage the browsers’ built in tools to help you troubleshoot the changes.   
@@ -10,5 +10,5 @@
 
 
 
-#FullStack JavaScript FAQs
+# FullStack JavaScript FAQs
 This needs content  
